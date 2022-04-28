@@ -1,0 +1,8 @@
+<?php
+echo $title;
+echo toSlug('Hoang An');
+?>
+
+{{title}} => <?php echo htmlentities($title); ?>
+{!title!} => echo $title;
+{!tólug('Hoàng An')!} => <?php echo  to Slug ?>

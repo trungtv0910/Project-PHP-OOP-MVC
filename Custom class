@@ -1,0 +1,3 @@
+bây giờ muốn đưa các class tự viết vào thì phải làm thế nào
+thì chúng ta phjair viết bên trong app và vào core
+// bước 2 vào trong configs\app và gọi trong đó

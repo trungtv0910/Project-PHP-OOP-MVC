@@ -1,0 +1,13 @@
+1. xác định được rules
+- fieldname
+- rules
+
+2. Thông báo
+= field name
+- errors
+
+3. Run validate()
+-true
+-flase
+
+// validate sẽ được đặt trong phần  Request thuộc core core\Request

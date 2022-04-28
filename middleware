@@ -1,0 +1,4 @@
+- Route middleware: bộ lọc theo route
+- Route globals: Bộ lọc tất cả request
+- middleware sử dụng có thể để check phân quyền
+

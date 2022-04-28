@@ -1,0 +1,5 @@
+/*
+helper là những hàm được viết sẵn, hoặc hàm xây dựng sẳn trong quá trình xin việc và
+đặc biệt helper không liên quan đến hướng đối tượng, không liên quan đến object , chỉ là hàm thuần bình thường
+
+core là những cái được xây dựng sẳn rồi
